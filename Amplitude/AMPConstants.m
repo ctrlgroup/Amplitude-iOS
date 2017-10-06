@@ -5,8 +5,8 @@
 
 NSString *const kAMPLibrary = @"amplitude-ios";
 NSString *const kAMPVersion = @"4.0.1";
-NSString *const kAMPEventLogDomain = @"139.59.211.127";
-NSString *const kAMPEventLogUrl = @"http://139.59.211.127:8080/";
+NSString *const kAMPEventLogDomain = @"proxy.lilyhoskin.co.uk";
+NSString *const kAMPEventLogUrl = @"https://proxy.lilyhoskin.co.uk/";
 NSString *const kAMPDefaultInstance = @"$default_instance";
 const int kAMPApiVersion = 3;
 const int kAMPDBVersion = 3;
